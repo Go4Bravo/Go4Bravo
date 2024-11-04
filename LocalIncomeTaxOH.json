@@ -1,0 +1,3159 @@
+[
+    {
+        "Municipality":"Aberdeen",
+        "Code":23,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Ada",
+        "Code":4,
+        "Tax Rate":0.0165,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0165
+    },
+    {
+        "Municipality":"Addyston",
+        "Code":18,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Adelphi",
+        "Code":22,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Alexandria",
+        "Code":43,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Alger",
+        "Code":24,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Amanda",
+        "Code":44,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Amsterdam",
+        "Code":39,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Andover",
+        "Code":15,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Antwerp",
+        "Code":31,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Apple Creek",
+        "Code":32,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Apple Creek-East Union Twp JEDD II",
+        "Code":47,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Arlington Heights",
+        "Code":13,
+        "Tax Rate":0.021,
+        "Credit Factor":1.0,
+        "Credit Rate":0.021
+    },
+    {
+        "Municipality":"Ashley",
+        "Code":41,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Ashville",
+        "Code":6,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Aurora",
+        "Code":10,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Avon",
+        "Code":20,
+        "Tax Rate":0.0175,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Avon Lake",
+        "Code":21,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Bainbridge-Solon JEDD",
+        "Code":37,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Baltic",
+        "Code":33,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Baltimore",
+        "Code":29,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Barberton",
+        "Code":28,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0225
+    },
+    {
+        "Municipality":"Barnesville",
+        "Code":34,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Barnesville JEDD I",
+        "Code":61,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Barnesville JEDD II",
+        "Code":62,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Batavia",
+        "Code":35,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Bay Village",
+        "Code":40,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Beachwood",
+        "Code":50,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Beachwood East JEDD",
+        "Code":51,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Beachwood West JEDD",
+        "Code":52,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Beaverdam",
+        "Code":54,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Bedford",
+        "Code":60,
+        "Tax Rate":0.03,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0225
+    },
+    {
+        "Municipality":"Bedford Heights",
+        "Code":65,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Belle Center",
+        "Code":83,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Bellefontaine",
+        "Code":87,
+        "Tax Rate":0.01333,
+        "Credit Factor":1.0,
+        "Credit Rate":0.00666
+    },
+    {
+        "Municipality":" as of  07\/01\/2024",
+        "Code":87,
+        "Tax Rate":0.016,
+        "Credit Factor":1.0,
+        "Credit Rate":0.00666
+    },
+    {
+        "Municipality":"Bellevue",
+        "Code":86,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Bellville",
+        "Code":88,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Belpre",
+        "Code":89,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Bentleyville",
+        "Code":90,
+        "Tax Rate":0.01,
+        "Credit Factor":0.125,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Berea",
+        "Code":100,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Bethel",
+        "Code":116,
+        "Tax Rate":0.01,
+        "Credit Factor":0.75,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Bettsville",
+        "Code":102,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Beverly",
+        "Code":103,
+        "Tax Rate":0.0125,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0125
+    },
+    {
+        "Municipality":"Bexley",
+        "Code":104,
+        "Tax Rate":0.025,
+        "Credit Factor":0.65,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Blanchester",
+        "Code":118,
+        "Tax Rate":0.0,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":" as of  07\/01\/2024",
+        "Code":118,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Bloomdale",
+        "Code":96,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Bloomingdale",
+        "Code":95,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Bloomville",
+        "Code":123,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Boston Heights",
+        "Code":110,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Boston Twp Peninsula JEDD",
+        "Code":117,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Bradford",
+        "Code":112,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Bratenahl",
+        "Code":120,
+        "Tax Rate":0.02,
+        "Credit Factor":0.5,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Brecksville",
+        "Code":130,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Bremen",
+        "Code":132,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Brice",
+        "Code":136,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Bridgeport",
+        "Code":156,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Brimfield Tallmadge JEDD",
+        "Code":137,
+        "Tax Rate":0.0175,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Broadview Heights",
+        "Code":140,
+        "Tax Rate":0.02,
+        "Credit Factor":0.75,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Brooklyn",
+        "Code":150,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Brooklyn Heights",
+        "Code":160,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Bryan",
+        "Code":172,
+        "Tax Rate":0.018,
+        "Credit Factor":1.0,
+        "Credit Rate":0.018
+    },
+    {
+        "Municipality":"Buckland",
+        "Code":154,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Burbank",
+        "Code":125,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Butler",
+        "Code":163,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Butler County Annexation",
+        "Code":91,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Cairo",
+        "Code":162,
+        "Tax Rate":0.005,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Caldwell",
+        "Code":158,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Camden",
+        "Code":232,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Campbell",
+        "Code":167,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Canal Winchester",
+        "Code":175,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Cardington",
+        "Code":168,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Carroll",
+        "Code":202,
+        "Tax Rate":0.0075,
+        "Credit Factor":0.25,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"Carrollton",
+        "Code":203,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Catawba",
+        "Code":204,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Cecil",
+        "Code":195,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Cedarville",
+        "Code":192,
+        "Tax Rate":0.0125,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0125
+    },
+    {
+        "Municipality":"Centerburg",
+        "Code":194,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Chagrin Falls",
+        "Code":180,
+        "Tax Rate":0.0185,
+        "Credit Factor":0.75,
+        "Credit Rate":0.0185
+    },
+    {
+        "Municipality":"Chardon",
+        "Code":185,
+        "Tax Rate":0.02,
+        "Credit Factor":0.5,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Chesterville",
+        "Code":126,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Circleville",
+        "Code":190,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Circleville-Pickaway Twp JEDD",
+        "Code":151,
+        "Tax Rate":0.025,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Clarksville",
+        "Code":237,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Cleveland Heights",
+        "Code":210,
+        "Tax Rate":0.0225,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Clinton",
+        "Code":159,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Clinton Grandview Heights JEDZ",
+        "Code":293,
+        "Tax Rate":0.025,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Coal Grove",
+        "Code":207,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":" as of  10\/01\/2024",
+        "Code":207,
+        "Tax Rate":0.01,
+        "Credit Factor":0.75,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"College Corner",
+        "Code":155,
+        "Tax Rate":0.0,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":" as of  07\/01\/2024",
+        "Code":155,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Columbiana",
+        "Code":211,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Commercial Point",
+        "Code":224,
+        "Tax Rate":0.0075,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Conesville",
+        "Code":236,
+        "Tax Rate":0.005,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Continental",
+        "Code":226,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Corwin",
+        "Code":223,
+        "Tax Rate":0.005,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Crestline",
+        "Code":227,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Creston",
+        "Code":228,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Crooksville",
+        "Code":230,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Cuyahoga Falls",
+        "Code":220,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Cuyahoga Falls Boston Twp JEDD",
+        "Code":135,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Cuyahoga Heights",
+        "Code":250,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Danville",
+        "Code":251,
+        "Tax Rate":0.015,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Darbyville",
+        "Code":152,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"DeGraff",
+        "Code":249,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Dennison",
+        "Code":256,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Dorr Street JEDD",
+        "Code":141,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Doylestown",
+        "Code":261,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Dunkirk",
+        "Code":264,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"East Cleveland",
+        "Code":270,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"East Palestine",
+        "Code":268,
+        "Tax Rate":0.015,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"East Union Twp-Apple Creek JEDD",
+        "Code":247,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Eastlake",
+        "Code":273,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Eaton",
+        "Code":246,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Eaton JEDD",
+        "Code":292,
+        "Tax Rate":0.0225,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Edgerton",
+        "Code":248,
+        "Tax Rate":0.0175,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0175
+    },
+    {
+        "Municipality":"Edison",
+        "Code":271,
+        "Tax Rate":0.005,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Elmore",
+        "Code":272,
+        "Tax Rate":0.0175,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Elmwood Place",
+        "Code":269,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Elyria",
+        "Code":277,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0225
+    },
+    {
+        "Municipality":"Elyria JEDD",
+        "Code":282,
+        "Tax Rate":0.0225,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Empire",
+        "Code":235,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Etna-Reynoldsburg JEDD 1",
+        "Code":145,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Etna-Reynoldsburg JEDD 2",
+        "Code":146,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Etna-Reynoldsburg JEDD 3",
+        "Code":147,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Etna-Reynoldsburg JEDD 4",
+        "Code":144,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Etna-Reynoldsburg JEDD 7",
+        "Code":139,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Euclid",
+        "Code":280,
+        "Tax Rate":0.0285,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0285
+    },
+    {
+        "Municipality":"Evans Farm JEDD",
+        "Code":142,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Fairborn",
+        "Code":287,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Fairport Harbor",
+        "Code":291,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Fairview Park",
+        "Code":300,
+        "Tax Rate":0.02,
+        "Credit Factor":0.75,
+        "Credit Rate":0.0125
+    },
+    {
+        "Municipality":"Fayette",
+        "Code":295,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Fayetteville",
+        "Code":242,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Felicity",
+        "Code":296,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Forest",
+        "Code":297,
+        "Tax Rate":0.0125,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Fort Jennings",
+        "Code":304,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Fostoria",
+        "Code":305,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Frazeysburg",
+        "Code":309,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Fredericktown",
+        "Code":308,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Fremont",
+        "Code":310,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Fulton",
+        "Code":143,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Gahanna",
+        "Code":316,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Galena",
+        "Code":319,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Galion",
+        "Code":317,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Garfield Heights",
+        "Code":320,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Gates Mills",
+        "Code":330,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Genoa",
+        "Code":348,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"Gettysburg",
+        "Code":679,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Gibsonburg",
+        "Code":342,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Girard",
+        "Code":346,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Glenmont",
+        "Code":138,
+        "Tax Rate":0.0,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":" as of  07\/01\/2024",
+        "Code":138,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Glenwillow",
+        "Code":347,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Golf Manor",
+        "Code":332,
+        "Tax Rate":0.017,
+        "Credit Factor":1.0,
+        "Credit Rate":0.017
+    },
+    {
+        "Municipality":"Grafton",
+        "Code":350,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Grandview Heights",
+        "Code":357,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Gratis",
+        "Code":294,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Greenfield",
+        "Code":334,
+        "Tax Rate":0.01625,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01625
+    },
+    {
+        "Municipality":"Greenhills",
+        "Code":337,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Grove City",
+        "Code":358,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Groveport",
+        "Code":361,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Ham Fair Twp JEDD I",
+        "Code":417,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Ham Fair TWP JEDD II",
+        "Code":80,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Ham Fair TWP JEDD III",
+        "Code":81,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Hamilton",
+        "Code":360,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Hanover",
+        "Code":238,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Harrisburg",
+        "Code":325,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Harrison",
+        "Code":339,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Harrison Twp JEDD",
+        "Code":329,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Harrod",
+        "Code":326,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Haskins",
+        "Code":364,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Helena",
+        "Code":683,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Highland Heights",
+        "Code":370,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Hilliard",
+        "Code":371,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Hiram",
+        "Code":375,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0125
+    },
+    {
+        "Municipality":"Holland",
+        "Code":381,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0225
+    },
+    {
+        "Municipality":"Holland Springfield Twp JEDZ",
+        "Code":244,
+        "Tax Rate":0.015,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Holmesville",
+        "Code":328,
+        "Tax Rate":0.0,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":" as of  07\/01\/2024",
+        "Code":328,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Hopedale",
+        "Code":431,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Hudson",
+        "Code":378,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Hunting Valley",
+        "Code":380,
+        "Tax Rate":0.0,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Huron",
+        "Code":385,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Independence",
+        "Code":390,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Jackson",
+        "Code":374,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Jackson Center",
+        "Code":340,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Jeffersonville",
+        "Code":438,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Jerry City",
+        "Code":313,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Jewett",
+        "Code":377,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Johnstown",
+        "Code":386,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Kent",
+        "Code":392,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0225
+    },
+    {
+        "Municipality":"Killbuck",
+        "Code":412,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Kirkersville",
+        "Code":681,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Kirtland",
+        "Code":394,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0175
+    },
+    {
+        "Municipality":"LaGrange",
+        "Code":398,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Lakeline",
+        "Code":327,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Lakemore",
+        "Code":401,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0225
+    },
+    {
+        "Municipality":"Latty",
+        "Code":684,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Leesburg",
+        "Code":411,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Leetonia",
+        "Code":443,
+        "Tax Rate":0.015,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Liberty Center",
+        "Code":444,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Lincoln Heights",
+        "Code":419,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Lithopolis",
+        "Code":424,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Lockbourne",
+        "Code":427,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Lockington",
+        "Code":693,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Lockland",
+        "Code":426,
+        "Tax Rate":0.021,
+        "Credit Factor":1.0,
+        "Credit Rate":0.021
+    },
+    {
+        "Municipality":"Lodi",
+        "Code":422,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Loveland",
+        "Code":436,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Lowellville",
+        "Code":445,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Lyndhurst",
+        "Code":440,
+        "Tax Rate":0.02,
+        "Credit Factor":0.5,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Lyons",
+        "Code":689,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Macedonia",
+        "Code":450,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Macedonia Northfield Center JEDD",
+        "Code":451,
+        "Tax Rate":0.025,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Madison Village",
+        "Code":452,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Maineville",
+        "Code":454,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Malinta",
+        "Code":448,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Malvern",
+        "Code":455,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Manchester",
+        "Code":456,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Mantua Village",
+        "Code":459,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Maple Heights",
+        "Code":460,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Marengo",
+        "Code":690,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Marengo-Bennington Twp. JEDD",
+        "Code":543,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Martins Ferry",
+        "Code":466,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Mayfield Heights",
+        "Code":480,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Mayfield Village",
+        "Code":485,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"McClure",
+        "Code":475,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"McDonald",
+        "Code":478,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Mechanicsburg",
+        "Code":486,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Medina",
+        "Code":487,
+        "Tax Rate":0.0125,
+        "Credit Factor":0.25,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"Medina Montville JEDD",
+        "Code":149,
+        "Tax Rate":0.0125,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Melrose",
+        "Code":489,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Mentor",
+        "Code":490,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Metamora",
+        "Code":496,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Middle Point",
+        "Code":499,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Middleburg Heights",
+        "Code":500,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Middleport",
+        "Code":503,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Midvale",
+        "Code":512,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Mifflin",
+        "Code":501,
+        "Tax Rate":0.0,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milan",
+        "Code":505,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford",
+        "Code":513,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford Center",
+        "Code":507,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford JEDD",
+        "Code":523,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford JEDD II",
+        "Code":613,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford JEDD III",
+        "Code":622,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford JEDD IV",
+        "Code":623,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford JEDD V",
+        "Code":628,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford JEDD VI",
+        "Code":668,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Milford JEDD VII",
+        "Code":686,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Millbury",
+        "Code":468,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Miller City",
+        "Code":558,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Millersport",
+        "Code":692,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Mineral City",
+        "Code":502,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Minerva",
+        "Code":514,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Minerva Park",
+        "Code":509,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Mingo Junction",
+        "Code":508,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Mogadore",
+        "Code":515,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Monroeville",
+        "Code":516,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Montgomery",
+        "Code":517,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Moreland Hills",
+        "Code":520,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Morral",
+        "Code":617,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Moscow",
+        "Code":479,
+        "Tax Rate":0.0,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Mount Sterling",
+        "Code":528,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Mount Victory",
+        "Code":331,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Mt Healthy",
+        "Code":527,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.016
+    },
+    {
+        "Municipality":"Napoleon",
+        "Code":529,
+        "Tax Rate":0.015,
+        "Credit Factor":0.7,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Nashville",
+        "Code":698,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Nelsonville",
+        "Code":553,
+        "Tax Rate":0.0175,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"New Albany",
+        "Code":535,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"New Bavaria",
+        "Code":568,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"New Bloomington",
+        "Code":504,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"New Franklin",
+        "Code":554,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"New Richmond",
+        "Code":524,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"New Riegel",
+        "Code":602,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"New Washington",
+        "Code":556,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"New Waterford",
+        "Code":525,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Newburgh Heights",
+        "Code":540,
+        "Tax Rate":0.02,
+        "Credit Factor":0.75,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Newcomerstown",
+        "Code":562,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Newton Falls",
+        "Code":547,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Newtown",
+        "Code":561,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Ney",
+        "Code":677,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Niles",
+        "Code":539,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"North Canton",
+        "Code":546,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"North College Hill",
+        "Code":563,
+        "Tax Rate":0.015,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"North Lewisburg",
+        "Code":549,
+        "Tax Rate":0.0175,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"North Olmsted",
+        "Code":550,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"North Perry",
+        "Code":552,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"North Ridgeville",
+        "Code":565,
+        "Tax Rate":0.01,
+        "Credit Factor":0.1,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"North Robinson",
+        "Code":621,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"North Royalton",
+        "Code":570,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0125
+    },
+    {
+        "Municipality":"Northfield Village",
+        "Code":545,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Northwood",
+        "Code":567,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Norton",
+        "Code":572,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Norton Barberton JEDZ",
+        "Code":685,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Norwalk",
+        "Code":573,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Oak Harbor",
+        "Code":579,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Oak Hill",
+        "Code":624,
+        "Tax Rate":0.005,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Oakwood",
+        "Code":580,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Oberlin",
+        "Code":585,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Octa",
+        "Code":569,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Olmsted Falls",
+        "Code":590,
+        "Tax Rate":0.015,
+        "Credit Factor":0.5,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Orange",
+        "Code":600,
+        "Tax Rate":0.02,
+        "Credit Factor":0.6,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Orange Chagrin Highland JEDD",
+        "Code":601,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Orrville",
+        "Code":604,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Ostrander",
+        "Code":608,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Ottawa",
+        "Code":606,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Ottawa Hills",
+        "Code":607,
+        "Tax Rate":0.015,
+        "Credit Factor":0.5,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Owensville",
+        "Code":578,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Oxford",
+        "Code":609,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Painesville",
+        "Code":610,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Painesville Concord JEDD",
+        "Code":581,
+        "Tax Rate":0.0175,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Parma Heights",
+        "Code":630,
+        "Tax Rate":0.03,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Pataskala",
+        "Code":619,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Patterson",
+        "Code":674,
+        "Tax Rate":0.005,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Payne",
+        "Code":718,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Peninsula",
+        "Code":631,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Pepper Pike",
+        "Code":650,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Perry",
+        "Code":654,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Perry JEDD",
+        "Code":664,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Piketon",
+        "Code":637,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Piqua",
+        "Code":651,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Pleasant Hill",
+        "Code":641,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Pleasantville",
+        "Code":642,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Pomeroy",
+        "Code":584,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Portage",
+        "Code":644,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Powell",
+        "Code":648,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Powhatan Point",
+        "Code":645,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Quincy",
+        "Code":643,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Ravenna",
+        "Code":657,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Ravenna-Rootstown Twp JEDD",
+        "Code":697,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Reminderville",
+        "Code":660,
+        "Tax Rate":0.015,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Reminderville Twinsburg Twp JEDD",
+        "Code":661,
+        "Tax Rate":0.015,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Reynoldsburg",
+        "Code":662,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Richmond Heights",
+        "Code":670,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0125
+    },
+    {
+        "Municipality":"Richwood",
+        "Code":671,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Ridgeway",
+        "Code":669,
+        "Tax Rate":0.005,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":" as of  07\/01\/2024",
+        "Code":669,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Rio Grande",
+        "Code":588,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Ripley",
+        "Code":672,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Risingsun",
+        "Code":682,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Rittman",
+        "Code":673,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Rocky River",
+        "Code":700,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Rossford",
+        "Code":703,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0225
+    },
+    {
+        "Municipality":"Rush Twp Uhrichsville JEDD",
+        "Code":852,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Rutland",
+        "Code":724,
+        "Tax Rate":0.01,
+        "Credit Factor":0.75,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Sabina",
+        "Code":704,
+        "Tax Rate":0.015,
+        "Credit Factor":0.5,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Saint Clairsville",
+        "Code":701,
+        "Tax Rate":0.0075,
+        "Credit Factor":0.5,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"Saint Paris",
+        "Code":707,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Salem",
+        "Code":709,
+        "Tax Rate":0.0125,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0125
+    },
+    {
+        "Municipality":"Salineville",
+        "Code":712,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Sandusky",
+        "Code":710,
+        "Tax Rate":0.0125,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Sardinia",
+        "Code":711,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Scioto Twp JEDD",
+        "Code":716,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Sebring",
+        "Code":713,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Seven Hills",
+        "Code":720,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0165
+    },
+    {
+        "Municipality":"Shaker Heights",
+        "Code":750,
+        "Tax Rate":0.0225,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Shalersville Twp JEDD",
+        "Code":723,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Sharon TWP JEDD",
+        "Code":721,
+        "Tax Rate":0.025,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Shawnee Hills",
+        "Code":749,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0175
+    },
+    {
+        "Municipality":"Sheffield Lake",
+        "Code":751,
+        "Tax Rate":0.02,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Sheffield Village",
+        "Code":752,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Silver Lake",
+        "Code":756,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Silverton",
+        "Code":757,
+        "Tax Rate":0.0125,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Smithville",
+        "Code":758,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Solon",
+        "Code":760,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"South Amherst",
+        "Code":765,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.001
+    },
+    {
+        "Municipality":"South Bloomfield",
+        "Code":767,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"South Charleston",
+        "Code":763,
+        "Tax Rate":0.0125,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0125
+    },
+    {
+        "Municipality":"South Euclid",
+        "Code":770,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"South Solon",
+        "Code":769,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"South Vienna",
+        "Code":725,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Spencerville",
+        "Code":762,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Springfield Twp JEDZ I",
+        "Code":627,
+        "Tax Rate":0.015,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"St. Louisville",
+        "Code":857,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Steubenville",
+        "Code":776,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Stockport",
+        "Code":719,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Stone Creek",
+        "Code":738,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"Stoutsville",
+        "Code":876,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Stratton",
+        "Code":764,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Streetsboro",
+        "Code":775,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Strongsville",
+        "Code":780,
+        "Tax Rate":0.02,
+        "Credit Factor":0.75,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Sugar Grove",
+        "Code":742,
+        "Tax Rate":0.0075,
+        "Credit Factor":0.5,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"Sugarcreek",
+        "Code":733,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Sunbury",
+        "Code":779,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Swanton",
+        "Code":784,
+        "Tax Rate":0.015,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Sycamore",
+        "Code":785,
+        "Tax Rate":0.01,
+        "Credit Factor":0.5,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Tallmadge",
+        "Code":783,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0225
+    },
+    {
+        "Municipality":"Thurston",
+        "Code":728,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Timberlake",
+        "Code":788,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Tiro",
+        "Code":727,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Tontogany",
+        "Code":794,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Toronto",
+        "Code":792,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Tremont City",
+        "Code":801,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Trimble",
+        "Code":855,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Tuscarawas",
+        "Code":799,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Twinsburg",
+        "Code":790,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Uhrichsville",
+        "Code":797,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"University Heights",
+        "Code":800,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Upper Arlington",
+        "Code":802,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Urbana",
+        "Code":805,
+        "Tax Rate":0.014,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Urbancrest",
+        "Code":806,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Utica",
+        "Code":807,
+        "Tax Rate":0.0175,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Valley View",
+        "Code":810,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Valleyview",
+        "Code":743,
+        "Tax Rate":0.0,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Vermilion",
+        "Code":815,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Violet Township-Canal Winchester JEDD",
+        "Code":867,
+        "Tax Rate":0.02,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Wadsworth",
+        "Code":818,
+        "Tax Rate":0.014,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Wakeman",
+        "Code":821,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Walton Hills",
+        "Code":820,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Warrensville Heights",
+        "Code":830,
+        "Tax Rate":0.026,
+        "Credit Factor":0.5,
+        "Credit Rate":0.026
+    },
+    {
+        "Municipality":"Warrensville Heights JEDZ",
+        "Code":804,
+        "Tax Rate":0.026,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Warsaw",
+        "Code":861,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Washingtonville",
+        "Code":909,
+        "Tax Rate":0.005,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":" as of  04\/01\/2024",
+        "Code":909,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Waterville",
+        "Code":808,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Wayne Lakes",
+        "Code":916,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Waynesville",
+        "Code":827,
+        "Tax Rate":0.0075,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Wellington",
+        "Code":833,
+        "Tax Rate":0.0175,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0175
+    },
+    {
+        "Municipality":"Wellston",
+        "Code":834,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Wellsville",
+        "Code":839,
+        "Tax Rate":0.015,
+        "Credit Factor":0.5,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"West Alexandria",
+        "Code":814,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"West Elkton",
+        "Code":841,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"West Lafayette",
+        "Code":817,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"West Liberty",
+        "Code":858,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"West Mansfield",
+        "Code":850,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"West Salem",
+        "Code":825,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"West Unity",
+        "Code":847,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Westlake",
+        "Code":840,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Weston",
+        "Code":842,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Whitehouse",
+        "Code":848,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0075
+    },
+    {
+        "Municipality":"Wickliffe",
+        "Code":860,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Williamsburg",
+        "Code":864,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Williamsburg JEDD",
+        "Code":865,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Williamsport",
+        "Code":866,
+        "Tax Rate":0.005,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Willoughby",
+        "Code":870,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Willoughby Hills",
+        "Code":880,
+        "Tax Rate":0.02,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Willowick",
+        "Code":890,
+        "Tax Rate":0.02,
+        "Credit Factor":0.875,
+        "Credit Rate":0.02
+    },
+    {
+        "Municipality":"Willshire",
+        "Code":892,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Windham",
+        "Code":893,
+        "Tax Rate":0.015,
+        "Credit Factor":1.0,
+        "Credit Rate":0.005
+    },
+    {
+        "Municipality":"Wintersville",
+        "Code":894,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Woodlawn",
+        "Code":896,
+        "Tax Rate":0.023,
+        "Credit Factor":1.0,
+        "Credit Rate":0.023
+    },
+    {
+        "Municipality":"Woodmere",
+        "Code":900,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Woodsfield",
+        "Code":899,
+        "Tax Rate":0.01,
+        "Credit Factor":1.0,
+        "Credit Rate":0.01
+    },
+    {
+        "Municipality":"Woodstock",
+        "Code":901,
+        "Tax Rate":0.01,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Worthington",
+        "Code":904,
+        "Tax Rate":0.025,
+        "Credit Factor":1.0,
+        "Credit Rate":0.025
+    },
+    {
+        "Municipality":"Xenia",
+        "Code":905,
+        "Tax Rate":0.0225,
+        "Credit Factor":1.0,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Xenia JEDD 1",
+        "Code":859,
+        "Tax Rate":0.0225,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    },
+    {
+        "Municipality":"Yellow Springs",
+        "Code":906,
+        "Tax Rate":0.015,
+        "Credit Factor":0.5,
+        "Credit Rate":0.015
+    },
+    {
+        "Municipality":"Youngstown",
+        "Code":907,
+        "Tax Rate":0.0275,
+        "Credit Factor":1.0,
+        "Credit Rate":0.0275
+    },
+    {
+        "Municipality":"Youngstown Girard JEDZ",
+        "Code":908,
+        "Tax Rate":0.0275,
+        "Credit Factor":0.0,
+        "Credit Rate":0.0
+    }
+]
